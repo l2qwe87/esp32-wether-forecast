@@ -1,0 +1,14 @@
+﻿[Unit]
+Description=WeatherForecast
+
+[Service]
+WorkingDirectory=/var/wether-forecast
+ExecStart=/var/wether-forecast/AccuWeather --urls=http://*:5321
+Restart=always
+# Restart service after 10 seconds if the dotnet service crashes:
+RestartSec=12
+KillSignal=SIGINT
+SyslogIdentifier=myfirstapp-identifier
+
+[Install]
+WantedBy=multi-user.target

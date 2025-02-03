@@ -1,0 +1,200 @@
+[
+  {
+    "DateTime": "2025-01-28T23:00:00+03:00",
+    "EpochDateTime": 1738094400,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 3,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 29,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=1&hbhhour=23&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=1&hbhhour=23&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T00:00:00+03:00",
+    "EpochDateTime": 1738098000,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 2.9,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 26,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=0&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=0&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T01:00:00+03:00",
+    "EpochDateTime": 1738101600,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 2.9,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=1&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=1&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T02:00:00+03:00",
+    "EpochDateTime": 1738105200,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 3.2,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=2&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=2&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T03:00:00+03:00",
+    "EpochDateTime": 1738108800,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 3.1,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=3&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=3&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T04:00:00+03:00",
+    "EpochDateTime": 1738112400,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 3.1,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=4&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=4&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T05:00:00+03:00",
+    "EpochDateTime": 1738116000,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 2.9,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=5&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=5&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T06:00:00+03:00",
+    "EpochDateTime": 1738119600,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 3.1,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 25,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=6&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=6&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T07:00:00+03:00",
+    "EpochDateTime": 1738123200,
+    "WeatherIcon": 12,
+    "IconPhrase": "Ливни",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 3.2,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 54,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=7&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=7&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T08:00:00+03:00",
+    "EpochDateTime": 1738126800,
+    "WeatherIcon": 18,
+    "IconPhrase": "Дождь",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 3.2,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 60,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=8&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=8&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T09:00:00+03:00",
+    "EpochDateTime": 1738130400,
+    "WeatherIcon": 18,
+    "IconPhrase": "Дождь",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 3.3,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 57,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=9&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=9&unit=c"
+  },
+  {
+    "DateTime": "2025-01-29T10:00:00+03:00",
+    "EpochDateTime": 1738134000,
+    "WeatherIcon": 7,
+    "IconPhrase": "Облачно",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 3.4,
+      "Unit": "C",
+      "UnitType": 17
+    },
+    "PrecipitationProbability": 44,
+    "MobileLink": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=10&unit=c",
+    "Link": "http://www.accuweather.com/ru/ru/yuzhno-primorsky/2515391/hourly-weather-forecast/2515391?day=2&hbhhour=10&unit=c"
+  }
+]
